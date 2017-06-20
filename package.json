@@ -14,9 +14,9 @@
   "author": "Sergey Rubets",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dymonius/landing1.git"
+    "url": "https://github.com/Dymonius/landing1/issues"
   },
-  "homepage": "https://github.com/Dymonius/landing1.git#readme",
+  "homepage": "https://github.com/Dymonius/landing1#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "github:gulpjs/gulp#4.0",
