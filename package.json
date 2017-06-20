@@ -1,21 +1,22 @@
 {
-  "name": "landing1",
+  "name": "landing",
   "version": "1.0.0",
-  "description": "This is landing page",
+  "description": "This is langing page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dymonius/landing1.git"
   },
-  "author": "Dmitry Dvernikov",
+  "author": "Sergey Rubets",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dymonius/landing1/issues"
+    "url": "https://github.com/Dymonius/landing1.git"
   },
-  "homepage": "https://github.com/Dymonius/landing1#readme",
+  "homepage": "https://github.com/Dymonius/landing1.git#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "github:gulpjs/gulp#4.0",
@@ -24,5 +25,9 @@
     "gulp-sass": "^3.1.0",
     "gulp.spritesmith": "^6.3.0",
     "rimraf": "^2.6.1"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "normalize.scss": "^0.1.0"
   }
 }
