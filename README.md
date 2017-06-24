@@ -24,7 +24,7 @@
 
 * Склонировать данный репозиторий
 
-> git clone https://github.com/Dymonius/landing-page.git
+> git clone https://github.com/Dymonius/landing1.git
 
 
 * Запустить команду npm install в терминале. Данная команда установит все пакеты, которые указанны в файле
