@@ -58,6 +58,10 @@
   border-radius: 3px;
   background-color: #1287bf;
   color: #fff;
+
+  @media (max-width: 1055px) {
+    margin: 7px 7px 7px 0;
+  }
 }
 .logo {
   @media (max-width: 1080px) {
